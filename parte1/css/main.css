@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.color1 {
+	height: 400px;
+	width: 400px;
+	position: static;
+	background: #ED462F;
+}
+.color2 {
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 100px;
+	left: 100px;
+	right: 0px;
+	bottom: 0px;
+	background: #752E80;
+}
+.color3 {
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	background: #FFF835;
+}
